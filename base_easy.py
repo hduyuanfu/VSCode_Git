@@ -1,4 +1,5 @@
 from tkinter import *
+'''我试试同步功能'''
 master = Tk()
 master.geometry('700x600')
 #lable标签组件
