@@ -4,7 +4,7 @@ import time
 root = Tk()
 root.title('progressbar组件案例')
 root.geometry('200x150')
-
+# j'd'h'sh
 p1 = ttk.Progressbar(root, length=200, mode='determinate', orient=HORIZONTAL)
 p1.grid(row=1, column=1)
 p1['maximum'] = 100
