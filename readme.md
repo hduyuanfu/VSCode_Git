@@ -1,0 +1,1 @@
+- 用DCGAN生成动漫头像。model.py定义判别器和生成器类以及模型参数初始化函数；preparedata.py实现数据加载;train.py实现GAN网络的训练和保存；generate.py加载保存的模型并验证模型结果；main.py定义超参等，调用其他文件保证整个GAN网络的正常运行。fake_img为generate.py的验证结果。
